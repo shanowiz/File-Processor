@@ -1,0 +1,4 @@
+This is a file used
+to test the
+file processor built by
+Shane O. Barrett.
